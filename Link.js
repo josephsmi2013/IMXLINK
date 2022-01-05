@@ -1,0 +1,7 @@
+function testFunction()
+
+{
+
+  return "testdata";
+
+}
